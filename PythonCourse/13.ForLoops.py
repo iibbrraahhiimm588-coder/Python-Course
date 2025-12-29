@@ -110,7 +110,7 @@ for i in range(1, 11):
     if(i % 2 == 0):
         print('This is a even nuber')
 
-Z = int(input('Enter Your Marks: '))
+Z = int(input('Enter Your Marks: ')) 
 
 for marks in range(1,101):
     if(marks == 50):
